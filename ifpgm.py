@@ -12,4 +12,4 @@ elif(a == 'm' or a == 'M'):
 elif(a == 'd' or a == 'D'):
 	print('Division is: ', num1/num2)
 else:
-	print('Not valid operation')
+	print('No valid operation selected')
