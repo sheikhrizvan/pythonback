@@ -67,6 +67,7 @@ def update_command():
   
 # GUI part 
 window = Tk()
+window.wm_title("Book Store")
 
 
 # Input fields
