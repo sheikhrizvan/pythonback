@@ -64,7 +64,7 @@ def update_command():
     view_command()
 
 
- 
+  
 # GUI part 
 window = Tk()
 
